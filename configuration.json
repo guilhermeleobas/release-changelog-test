@@ -1,16 +1,12 @@
 {
   "categories": [
     {
-      "title": "## Changes",
-      "labels": ["changes"]
-    },
-    {
       "title": "## Deprecations",
       "labels": ["deprecation"]
     },
     {
       "title": "## New Features",
-      "labels": ["feature"]
+      "labels": ["enhancements"]
     },
     {
       "title": "## Bug Fixes",
