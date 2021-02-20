@@ -1,23 +1,23 @@
 {
   "categories": [
     {
-      "title": "## Deprecations",
+      "title": "## 🐞 Deprecations",
       "labels": ["deprecation"]
     },
     {
-      "title": "## New Features",
+      "title": "## 🚀 New Features",
       "labels": ["enhancement"]
     },
     {
-      "title": "## Bug Fixes",
+      "title": "## 🐛 Bug Fixes",
       "labels": ["bug"]
     },
     {
-      "title": "## Documentation",
+      "title": "## 📘 Documentation",
       "labels": ["documentation"]
     },
     {
-      "title": "## Internal Changes",
+      "title": "## ⚙️ Internal Changes",
       "labels": ["internal"]
     }
   ],
